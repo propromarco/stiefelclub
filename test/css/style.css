@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 30px;
+    margin: 30px 0 0 30px;
     text-transform: uppercase;
     font-family: Montserrat,sans-serif;
     font-weight: 700;
@@ -273,7 +273,7 @@ hr {
 
 
 .section-heading h2 {
-	font-size: 40px;
+	font-size: 32px;
 }
 .section-heading i {
 	margin-bottom: 20px;
