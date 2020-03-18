@@ -83,6 +83,7 @@ a:focus {
   color: #bb9c06;
   font-size: 32px;
   line-height: 40px;
+  margin: 0 0 30px;
 }
 
 .navbar-brand:focus {
