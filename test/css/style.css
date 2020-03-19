@@ -858,3 +858,7 @@ Parallax
     background: #58558c !important;
     color: #bb9c06 !important;
 }
+.wow h5 {
+    margin: 0;
+    font-size: 11px;
+}
