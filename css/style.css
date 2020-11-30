@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 30px 0 0 30px;
+    margin: 0.8em 0 0 0.8em;
     text-transform: uppercase;
     font-family: Montserrat,sans-serif;
     font-weight: 700;
@@ -79,9 +79,9 @@ a:focus {
   line-height: 1em;
 }
 
-.navbar-brand h1{
+.navbar-brand h1 {
   color: #bb9c06;
-  font-size: 32px;
+  font-size: 24px;
   line-height: 40px;
   margin: 0 0 30px;
 }
@@ -341,7 +341,7 @@ hr {
 .intro .slogan h2 {
 	/*color: #FFF;*/
 	text-shadow: none;
-	font-size: 32px;
+	font-size: 24px;
 	line-height: 60px;
 	font-weight: 700;
 	font-family: Montserrat, sans-serif;
